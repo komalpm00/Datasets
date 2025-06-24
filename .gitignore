@@ -1,7 +1,0 @@
-# Virtual environment
-.venv/
-
-# Dataset files
-*.txt
-*.csv
-*.zip
